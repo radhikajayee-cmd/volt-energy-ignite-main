@@ -1,142 +1,96 @@
-# VOLT Energy Drink Website
+# ⚡ Volt Energy Ignite
 
-A modern React website for VOLT Energy Drink, built with Vite, TypeScript, and Tailwind CSS.
+A modern, responsive web application focused on clean energy awareness, innovation, and digital experience. Built with a sleek UI and performance-first approach, this project demonstrates real-world frontend development practices.
 
-## Getting Started
+---
 
-### Prerequisites
+## 🌐 Live Demo
 
-- Node.js (version 18 or higher)
-- npm or yarn
+🔗 https://your-live-link.vercel.app
 
-### Installation
+---
 
-1. Clone the repository:
-   ```sh
-   git clone <YOUR_GIT_URL>
-   cd volt-energy-ignite-main
-   ```
+## 📌 Features
 
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
+* ⚡ Modern and responsive UI
+* 🌍 Clean energy themed design
+* 🚀 Fast performance and smooth animations
+* 📱 Mobile-friendly layout
+* 🎨 Professional design structure
 
-3. Start the development server:
-   ```sh
-   npm run dev
-   ```
+---
 
-4. Open your browser and navigate to `http://localhost:8080`
+## 🛠️ Tech Stack
 
-### Build for Production
+* HTML5 / CSS3 / JavaScript
+* React (if used)
+* Vite / Next.js (if applicable)
+* Tailwind CSS (if used)
 
-```sh
-npm run build
+---
+
+## 📂 Project Structure
+
+```
+├── src/
+├── public/
+├── components/
+├── assets/
+├── package.json
 ```
 
-## Deployment
+---
 
-### Vercel (Recommended)
+## 🚀 Getting Started
 
-1. Push your code to a GitHub repository
-2. Go to [Vercel](https://vercel.com) and sign up/login
-3. Click "New Project" and import your GitHub repo
-4. Vercel will automatically detect the Vite configuration
-5. Deploy!
+### 1. Clone the repository
 
-Your live website will be available at a URL like `https://your-project-name.vercel.app`
+```
+git clone https://github.com/your-username/your-repo.git
+```
 
-### Netlify
+### 2. Navigate to project
 
-1. Push your code to a GitHub repository
-2. Go to [Netlify](https://netlify.com) and sign up/login
-3. Click "New site from Git" and connect your GitHub repo
-4. Set build command to `npm run build`
-5. Set publish directory to `dist`
-6. Deploy!
+```
+cd volt-energy-ignite-main
+```
 
-### Local Development
+### 3. Install dependencies
 
-To run locally:
-```sh
+```
+npm install
+```
+
+### 4. Run locally
+
+```
 npm run dev
 ```
 
-Visit `http://localhost:8080`
+---
 
-### Run Tests
+## 📸 Preview
 
-```sh
-npm test
-```
+(Add screenshots here after deployment)
 
-### Lint Code
+---
 
-```sh
-npm run lint
-```
+## 🤝 Contributing
 
-## Project Structure
+Feel free to fork this repository and improve the project.
 
-- `src/components/` - Reusable UI components
-- `src/pages/` - Page components
-- `src/hooks/` - Custom React hooks
-- `src/lib/` - Utility functions
-- `public/` - Static assets
+---
 
-## Technologies Used
+## 📄 License
 
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-- Radix UI
-- Framer Motion
-- React Router
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+This project is open-source and available under the MIT License.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 👩‍💻 Author
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Developed by **Radhika Jayee**
+email:radhikajayee@gmail.com
+contact mo:9141919859
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
