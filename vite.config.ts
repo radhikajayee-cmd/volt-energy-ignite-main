@@ -4,8 +4,8 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(() => ({
-  base: "/volt-energy-ignite-main/", 
-  
+  base: "./", 
+
   server: {
     host: "::",
     port: 8080,
