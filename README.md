@@ -1,4 +1,8 @@
-# ⚡ Volt Energy Ignite
+<p align="center">
+  <img src="public/logo.png" width="120" />
+</p>
+
+# ⚡ VOLT Energy Drink — Unleash the Energy
 
 A modern, responsive web application focused on clean energy awareness, innovation, and digital experience. Built with a sleek UI and performance-first approach, this project demonstrates real-world frontend development practices.
 
@@ -6,7 +10,7 @@ A modern, responsive web application focused on clean energy awareness, innovati
 
 ## 🌐 Live Demo
 
-🔗 https://your-live-link.vercel.app
+🔗(https://volt-energy-ignite-main.vercel.app/)
 
 ---
 
@@ -71,7 +75,9 @@ npm run dev
 
 ## 📸 Preview
 
-(Add screenshots here after deployment)
+![more flavours](image.png)
+
+![landing page](image-1.png)
 
 ---
 
